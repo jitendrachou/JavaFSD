@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Jitendra Choudhary\Downloads\SimpliLearn Full Stack Java\Java\New folder\.metadata\.plugins\org.eclipse.jdt.core
+151032261.index
+1865797976.index
+712673515.index
